@@ -1,21 +1,10 @@
-# Saana Shijo
+# Project Portfolio
 
-Welcome to my project portfolio.
+## About
 
-I am an undergraduate student pursuing a Bachelor of Engineering in Electronics and Communication Engineering at RV College of Engineering, Bengaluru, with a concurrent Bachelor of Business Administration in Digital Business and Entrepreneurship from the Indian Institute of Management Bangalore.
+Hello, I'm **Saana Shijo**, an undergraduate student in Electronics and Communication Engineering with an interest in Artificial Intelligence, Machine Learning, Embedded Systems, and Computer Vision.
 
-This repository contains a collection of my academic and personal projects in Artificial Intelligence, Machine Learning, Embedded Systems, Signal Processing, Computer Vision, and Software Development.
-
----
-
-## Education
-
-**RV College of Engineering, Bengaluru**  
-Bachelor of Engineering (B.E.) – Electronics and Communication Engineering  
-CGPA: **9.48 / 10**
-
-**Indian Institute of Management Bangalore**  
-Bachelor of Business Administration (BBA) – Digital Business and Entrepreneurship
+This repository serves as a portfolio of my academic and personal projects. Each project is organized in its own folder with documentation, source code, and implementation details.
 
 ---
 
@@ -23,94 +12,28 @@ Bachelor of Business Administration (BBA) – Digital Business and Entrepreneurs
 
 ### AI-Based Anemia Detection System
 
-A non-invasive anemia screening system developed using eye and nail images. The project combines deep learning and machine learning techniques for feature extraction and classification, with SHAP-based explainability and an interactive Gradio interface.
+A non-invasive anemia screening system developed using eye and nail images. The project combines deep learning and machine learning techniques to classify patients as anemic or non-anemic. It includes SHAP-based explainability and an interactive Gradio interface.
 
 **Technologies:** Python, TensorFlow, XGBoost, OpenCV, SHAP, Gradio
 
 ---
 
-### Voice Activity Detection Using Machine Learning
+### Voice Activity Detection (Speech vs Silence)
 
-A machine learning-based Voice Activity Detection (VAD) system for classifying speech and silence from audio recordings using extracted acoustic features.
+A machine learning-based Voice Activity Detection (VAD) system that classifies audio recordings into speech and silence using extracted acoustic features. The project also explores deployment on embedded hardware for real-time inference.
 
-**Technologies:** Python, Scikit-learn, Librosa, NumPy
-
----
-
-### Upcoming Projects
-
-The following projects will be added to this repository:
-
-- Campus Connect – AI-Assisted Web Application
-- Home Connect – Apartment Management System
-- Turnstile Turbine Energy Generator
-- Drone Charging via Magnetic Resonance
-- Self-Tuning PID Controller
+**Technologies:** Python, Librosa, Scikit-learn, NumPy, STM32
 
 ---
-
-## Technical Skills
-
-### Programming Languages
-- Python
-- SQL
-- Java
-- C
-- C++
-
-### Machine Learning and Artificial Intelligence
-- TensorFlow
-- Scikit-learn
-- XGBoost
-- OpenCV
-- SHAP
-
-### Data Analysis
-- Pandas
-- NumPy
-- Matplotlib
-- Exploratory Data Analysis
-- Statistical Analysis
-
-### Embedded Systems
-- STM32
-- MATLAB
-- Verilog
-
-### Developer Tools
-- Git
-- GitHub
-- VS Code
-- Streamlit
-- Gradio
-
----
-
 ## Repository Structure
 
 ```
 Projects/
 │
-├── Anemia-Detection
-├── Voice-Activity-Detection
-├── Campus-Connect
-├── Home-Connect
-├── Turnstile-Turbine-Energy-Generator
-├── Drone-Charging
-└── Self-Tuning-PID
+├── Anemia-Detection/
+├── Voice-Activity-Detection/
+└── ...
 ```
-
----
-
-## Areas of Interest
-
-- Artificial Intelligence
-- Machine Learning
-- Computer Vision
-- Embedded Systems
-- Signal Processing
-- Internet of Things
-- Explainable AI
 
 ---
 
