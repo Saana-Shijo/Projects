@@ -91,9 +91,10 @@ Anemia-Detection/
 ├── README.md
 ├── requirements.txt
 ├── images/
-│   ├── architecture.png
-│   ├── sample_predictions.png
-│   └── confusion_matrix.png
+│   ├── risk score spread + decision constrains.jpeg
+│   ├── sample prediction - 1.png
+|   ├── sample prediction - 2.png
+│   └── shap.jpeg
 └── model/
 ```
 
