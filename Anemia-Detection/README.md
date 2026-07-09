@@ -139,7 +139,7 @@ Update the dataset paths according to your local system and execute all cells.
 **Saana Shijo**
 
 B.E. Electronics and Communication Engineering  
-RV COllege of Engineering
+RV College of Engineering
 
 ---
 
