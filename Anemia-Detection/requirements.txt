@@ -1,0 +1,15 @@
+tensorflow
+torch
+torchvision
+opencv-python
+numpy
+pandas
+matplotlib
+scikit-learn
+imbalanced-learn
+xgboost
+shap
+gradio
+joblib
+jupyter
+Pillow
