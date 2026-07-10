@@ -32,6 +32,7 @@ Projects/
 │
 ├── Anemia-Detection/
 ├── Voice-Activity-Detection/
+└── Myocardial-Infarction-Detection/
 └── ...
 ```
 
